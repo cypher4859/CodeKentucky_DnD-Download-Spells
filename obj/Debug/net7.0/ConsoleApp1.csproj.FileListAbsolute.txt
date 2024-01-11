@@ -1,0 +1,15 @@
+/Users/blackcypher/Projects/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/blackcypher/Projects/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/blackcypher/Projects/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/blackcypher/Projects/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/blackcypher/Projects/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/blackcypher/Projects/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
